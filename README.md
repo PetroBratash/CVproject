@@ -1,1 +1,1 @@
-# CVproject
+# CVproject - HTML, CSS project
